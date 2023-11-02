@@ -1,0 +1,36 @@
+
+html{
+   margin: 0;
+}
+
+.box{
+    margin: 100px auto 100%;
+    width: 80%;
+    text-align: center;
+}
+span{
+    display: block;
+}
+.button{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block; 
+    /* eski vjah se dabbe line m aate h */
+}
+
+#grey {
+    background: grey;
+  }
+
+#red {
+    background: rgb(230, 60, 60);
+  }
+
+#pink {
+    background: rgb(241, 113, 135);
+  }
+
+#yellow {
+    background: yellow;
+  }
